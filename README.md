@@ -51,8 +51,6 @@ The battlefield represents the environment where I construct intentionally vulne
 
 1. [``Linux Privilege Escalation 001 - Nasef's No Permission #1 (LinESC)``](https://github.com/iamnasef/nnp-linesc) is a challenge where player take on the role of Agent R, tasked with leading a task force to rescue Agent N.A.S.E.F., who has gone missing during a secret mission in the enemy state "SOURG."
 
-.
-
 </details>
 
 ## Key Features
