@@ -1,5 +1,5 @@
 <p align="center"><img src=banners.gif /></p>
-<h1><p align="center">THE UNIVERSITY</p></h1>
+<h1><p align="center">THE BATTLEFIELD</p></h1>
 <p align="center">
 The battlefields serves as a hub for all projects developed by Esqueware, with the goal of offering an intentionally vulnerable applications aiming to raise the cyber security awareness.
 
