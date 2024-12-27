@@ -5,7 +5,7 @@ The battlefields serves as a hub for all projects developed by Esqueware, with t
 
 </p>
 
-<p align="center"><b>Have Fun, and follow us below</b1></p>
+<p align="center"><b>Have fun, and follow us below</b1></p>
 
 
 <p align="center">
